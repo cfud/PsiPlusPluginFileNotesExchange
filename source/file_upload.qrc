@@ -1,0 +1,5 @@
+<RCC>
+     <qresource prefix="/cfud_file_upload">
+          <file>upload.png</file>
+     </qresource>
+</RCC> 
